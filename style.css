@@ -26,3 +26,7 @@
 .shoes-bg {
     background-color: #0000ff;
 }
+
+.text-white h1 {
+    color: white;
+}
