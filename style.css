@@ -1,0 +1,28 @@
+.banner-bg {
+    background-color: #fceae8;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    border: none;
+    padding: .6em 2em;
+    color: white;
+    font-weight: 500;
+}
+
+.image-width img {
+    width: 7rem;
+}
+
+.watch-bg {
+    background-color: #ffa500;
+
+}
+
+.bag-bg {
+    background-color: #da70d6;
+}
+
+.shoes-bg {
+    background-color: #0000ff;
+}
